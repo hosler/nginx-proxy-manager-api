@@ -1,2 +1,2 @@
 # nginx-proxy-manager-api
-API client for nginx proxy manager
+A python API client for nginx proxy manager
