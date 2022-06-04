@@ -6,9 +6,8 @@ setup(
     author='Daniel Hosler',
     author_email='danhosler@gmail.com',
     packages=['pyngpm'],
-    license='LICENSE.txt',
+    license='LICENSE',
     description='An API Client for Nginx Proxy Manager',
-    long_description=open('README.md').read(),
     install_requires=[
         "requests",
     ],
